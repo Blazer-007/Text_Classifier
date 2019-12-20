@@ -1,5 +1,4 @@
 # Text_Classifier
-A project made using RNN & Keras .
 
 A Text Classifier project to accomplish following tasks :-
 # 1. Spam Filtering
